@@ -6,7 +6,7 @@
 
     <test name="Git ki Practice with Jenkins">
         <classes>
-            <class name="Git_Package_cicd.ForGitPractice"/>
+            <class name="Git_Package_cicd.OpenWebsite"/>
         </classes>
     </test>
 
