@@ -7,7 +7,6 @@ public class ForGitPractice {
 	@Test	
 	public void printName()
 	{
-		
 		System.out.println("Hello Nasar Husain --- Welcome in Git world");
 	}
 
